@@ -49,4 +49,10 @@ As you can see the file has a certain structure, here is an example of it.
             description: <arg_description: str>
 ```
 
+For calling the file you should use:
+
+```
+python3 file.py <command_name> --<argument_name> <argument_result> --<argument_name>=<argument_result>
+```
+
 Cheers 👍
