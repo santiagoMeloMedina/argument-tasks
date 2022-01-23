@@ -15,7 +15,7 @@ setup(
     author="Santiago Melo Medina",
     author_email="smelomedina05@gmail.com",
     url="https://github.com/santiagoMeloMedina/argument-tasks",
-    download_url="",
+    download_url="https://github.com/santiagoMeloMedina/argument-tasks/archive/refs/tags/0.1.zip",
     keywords=[
         "Injection",
         "Singleton",
