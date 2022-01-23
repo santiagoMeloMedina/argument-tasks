@@ -52,7 +52,7 @@ As you can see the file has a certain structure, here is an example of it.
 For calling the file you should use:
 
 ```
-python3 file.py <command_name> --<argument_name> <argument_result> --<argument_name>=<argument_result>
+python3 file.py <command_name> --<argument_name> <argument_value> --<argument_name>=<argument_value>
 ```
 
 Cheers 👍
