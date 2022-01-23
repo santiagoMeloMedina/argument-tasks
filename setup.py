@@ -6,7 +6,7 @@ REQUIREMENTS_FILE = f"{os.path.dirname(os.path.realpath(__file__))}/requirements
 
 setup(
     name="argument-tasks",
-    packages=["argument-tasks"],
+    packages=["argument_tasks"],
     version="0.1",
     license="MIT",
     description="Tool to call tasks by arguments defined easily",
